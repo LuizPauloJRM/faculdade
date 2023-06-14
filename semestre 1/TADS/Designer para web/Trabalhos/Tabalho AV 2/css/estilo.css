@@ -1,7 +1,7 @@
 .cor-menu{
-    background-color: rgb(22, 247, 247);
+    background-color: rgb(36, 65, 73);
     width: 100%;
-    padding: 50px;
+    padding: 45px;
 }
 
 .icones{
@@ -23,10 +23,5 @@
 .links-menu a{
     margin-right: 10px;
 }
-.background{
-    height: 400px;
-    background-image: url(../imagens);
-    background-repeat: no-repeat;
-    background-size: contain;
 
-}
+
